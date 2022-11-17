@@ -23,7 +23,7 @@
 <img src="./java-logo.png" width="50" alt="Alt text" title="Optional title">
 <br>
  <h3>You can reach me here:</h3>
-<a href="https://www.linkedin.com/in/valeriya-kim-763572204/"><img src="./linkedin-logo.svg" width="50"></a>
+<a href="https://www.linkedin.com/in/valeriya-kim/"><img src="./linkedin-logo.svg" width="50"></a>
 <a href="https://github.com/valkim55"><img src="./github-logo.png" width="50"></a>
 </div>
 
